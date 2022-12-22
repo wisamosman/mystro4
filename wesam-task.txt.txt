@@ -15,5 +15,6 @@
     margin-top: 30pt;
 }
 .card a{
-    display: block;
+    display: block;---------------------
 }
+-----------------------------
